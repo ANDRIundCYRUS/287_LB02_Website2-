@@ -1,10 +1,42 @@
-.carousel .item {
-    height: 300px;
-  }
-  
-  .item img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      min-height: 300px;
-  }
+.carouselMaxHeight {
+    height: 800px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cardAlign {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
